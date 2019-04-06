@@ -9,6 +9,10 @@ The actual practice pedagogy involves starting with solving a given problem that
 1. [Leet Code](https://leetcode.com/)
 2. [Interview Bit](https://www.interviewbit.com/)
 3. [Hacker Rank](https://www.hackerrank.com/)
+4. [Exercism](https://exercism.io)
+
+## Books
+1. [Algorithms](https://github.com/jeffgerickson/algorithms/blob/master/Algorithms-JeffE.pdf)
 
 ## Topics to Cover
 
